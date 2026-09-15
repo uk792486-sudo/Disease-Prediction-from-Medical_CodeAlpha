@@ -5,7 +5,7 @@ An interactive Machine Learning web application built using Python, Scikit-Learn
 ---
 
 ## 🚀 Live Demo & Screenshots
-* **Live App Link:** [Click here to view live web app](#) *(Aap yahan apna Streamlit Cloud URL dal sakte hain deployment ke baad)*
+* **Live App Link:** [Click here to view live web app](#) *(https://disease-prediction-from-medicalcodealpha-4n43nprhygtb6okuwc8lt.streamlit.app/)*
 
 ---
 
