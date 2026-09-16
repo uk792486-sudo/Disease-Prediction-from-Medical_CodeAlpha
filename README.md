@@ -1,4 +1,4 @@
-# 🏥 AI Medical Diagnostic Portal (CodeAlpha Task 4)
+# 🏥 AI Medical Diagnostic Portal (CodeAlpha Task 3)
 
 An interactive Machine Learning web application built using Python, Scikit-Learn, and Streamlit to predict disease risk (Benign vs. Malignant) based on clinical biomarker metrics. Developed as part of the CodeAlpha Machine Learning Virtual Internship.
 
